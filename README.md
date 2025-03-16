@@ -21,7 +21,7 @@
   <h1>Beekjoon📚</h1>
 </div>
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=freshsider)](https://solved.ac/profile/freshsider) [![Solved.ac Profile](https://mazandi.herokuapp.com/api?handle=freshsider&theme=cool)](https://solved.ac/profile/freshsider)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thelittleho)](https://solved.ac/profile/freshsider) [![Solved.ac Profile](https://mazandi.herokuapp.com/api?handle=freshsider&theme=cool)](https://solved.ac/profile/freshsider)
 
 
 <div align=center>
